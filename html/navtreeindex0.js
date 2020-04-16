@@ -1,0 +1,25 @@
+var NAVTREEINDEX0 =
+{
+"_battery_8cpp.html":[2,0,0],
+"_battery_8h.html":[2,0,1],
+"_battery_8h_source.html":[2,0,1],
+"annotated.html":[1,0],
+"class_battery.html":[1,0,0],
+"class_battery.html#a048289ee03e4ce6ef6962ae78ff31168":[1,0,0,1],
+"class_battery.html#a36a6234c583e3b3506f4a77e3eb49989":[1,0,0,0],
+"class_battery.html#a38b610529ab71ee78cce50279c8d0608":[1,0,0,3],
+"class_battery.html#a3ada413fb29820a515887346611a94b3":[1,0,0,2],
+"class_battery.html#a4b912cf415ea8498d1759f6c4ab228dc":[1,0,0,4],
+"class_battery.html#a9e6cda61231d0673c1a5115385bb4f31":[1,0,0,5],
+"class_battery.html#ab15a43356ff0804dfe7e75c3aab5d531":[1,0,0,7],
+"class_battery.html#ac1e6cd8e96249c5b14934b90e3762921":[1,0,0,6],
+"classes.html":[1,1],
+"files.html":[2,0],
+"functions.html":[1,2,0],
+"functions_func.html":[1,2,1],
+"index.html":[0],
+"index.html":[],
+"index.html#Sensors":[0,0],
+"index.html#license":[0,1],
+"pages.html":[]
+};
